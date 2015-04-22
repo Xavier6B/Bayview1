@@ -5,20 +5,7 @@
         <next>
           <block type="movement_right" id="347">
             <next>
-              <block type="movement_reverse" id="326">
-                <next>
-                  <block type="robot_delay" id="281" inline="true">
-                    <value name="DELAY">
-                      <block type="math_number" id="305">
-                        <field name="NUM">2000</field>
-                      </block>
-                    </value>
-                    <next>
-                      <block type="movement_stop" id="316"></block>
-                    </next>
-                  </block>
-                </next>
-              </block>
+              <block type="movement_reverse" id="326"></block>
             </next>
           </block>
         </next>
