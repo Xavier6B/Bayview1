@@ -5,11 +5,7 @@
         <next>
           <block type="movement_left" id="82">
             <next>
-              <block type="movement_right" id="93">
-                <next>
-                  <block type="movement_stop" id="122"></block>
-                </next>
-              </block>
+              <block type="movement_right" id="93"></block>
             </next>
           </block>
         </next>
